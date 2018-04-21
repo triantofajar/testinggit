@@ -3,7 +3,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<h3>CRUD Laravel 5.3</h3>
+			<h3>CRUD Laravel 5.4</h3>
 			<div class="panel panel-default">
 				<div class="panel-body">
 					<form action="{{route('crud.store')}}" method="post">
